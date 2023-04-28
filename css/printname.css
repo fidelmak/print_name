@@ -28,16 +28,16 @@ body {
       border-radius: 80%;
   }
   #btn{
-      color:yellow;
+      color:black;
       border-color:rgb(179, 238, 248);
-      background-color:rgb(43, 200, 248);
+      background-color:white;
       border-radius: 40%;
       border-width: 5px;
   }
   #btn:hover{
     color:white;
     border-color:rgb(179, 238, 248);
-    background-color:rgb(43, 200, 248);
+    background-color:#000000;
     border-radius: 40%;
     border-width: 50%;
   }

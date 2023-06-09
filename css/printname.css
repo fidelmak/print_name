@@ -27,16 +27,16 @@ body {
   #image{
       border-radius: 80%;
   }
-  #btn{
+/*   #btn{
       color:black;
       border-color:rgb(179, 238, 248);
       background-color:white;
       border-radius: 40%;
-      border-width: 5px;
+      border-width: 5px; */
   }
   #btn:hover{
     color:white;
-    border-color:rgb(179, 238, 248);
+/*     border-color:rgb(179, 238, 248); */
     background-color:#000000;
     border-radius: 40%;
     border-width: 50%;
